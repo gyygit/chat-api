@@ -1,0 +1,18 @@
+{
+    "title" : "在线客服系统接口规范说明文档",
+    "language" : "zh",
+    "styles": {
+        "website": "styles/website.css",
+        "pdf": "styles/pdf.css"
+    },
+    "pdf" : {
+        "fontFamily": "system-ui",
+        "paperSize": "a4",
+        "margin": {
+          "right": 30,
+          "left": 30,
+          "top": 30,
+          "bottom": 50
+        }
+    }
+}
